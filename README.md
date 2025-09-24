@@ -1,10 +1,13 @@
-This is a simple example of an  [Observable Framework](https://observablehq.com/framework/) app
+<strong>This is a simple example of an  [Observable Framework](https://observablehq.com/framework/) app
 which fetches the data from Eurostat (instead of using the pre-fetched data which is
-usually done via "data loaders" located in the `data` directory).
+usually done via "data loaders" located in the `data` directory).</strong>
 
-The page can be compiled with `npm run build`.
+The app is coded in [`src/index.md`](https://github.com/alekrutkowski/testing-observable-framework-2/blob/main/src/index.md?plain=1).
+It can be compiled to a web page ([`dist`](https://github.com/alekrutkowski/testing-observable-framework-2/tree/main/dist)directory) with `npm run build`. \
+(See https://observablehq.com/framework/getting-started#2-develop for instructons).
 
-A version compiled with GitHub Actions is accessible at https://alekrutkowski.github.io/testing-observable-framework-2/.
+<strong>A version compiled with GitHub Actions is accessible at https://alekrutkowski.github.io/testing-observable-framework-2/.</strong> \
+(See https://observablehq.com/framework/deploying for instructions).
 
 ---
 
