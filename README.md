@@ -2,6 +2,10 @@ This is a simple example of an  [Observable Framework](https://observablehq.com/
 which fetches the data from Eurostat (instead of using the pre-fetched data which is
 usually done via "data loaders" located in the `data` directory).
 
+The page can be compiled with `npm run build`.
+
+A version compiled with GitHub Actions is accessible at https://alekrutkowski.github.io/testing-observable-framework-2/.
+
 ---
 
 # Hello Framework
