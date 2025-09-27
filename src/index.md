@@ -2,7 +2,7 @@
 toc: false
 ---
 
-<!-- Important! Input values returned by view() calls can be used only in a separate js code blocks. -->
+<!-- Important! Input values returned by view() calls can be used only in a separate js code block. -->
 <!-- Think: a separate spreadsheet cell to avoid a circular reference. -->
 <!-- See https://gist.githubusercontent.com/alekrutkowski/797ca03a87743ca6e25f5a27584f8b53 -->
 <!-- See https://talk.observablehq.com/t/how-to-use-input-values-for-computation-in-an-observable-doc/9055 -->
