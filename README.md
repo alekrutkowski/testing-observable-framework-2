@@ -9,6 +9,15 @@ It can be compiled to a web page ([`dist`](https://github.com/alekrutkowski/test
 <strong>A version compiled with GitHub Actions is accessible at https://alekrutkowski.github.io/testing-observable-framework-2/.</strong> \
 (See https://observablehq.com/framework/deploying for instructions).
 
+For other usage examples see:
+
+- Observablehq's "Observable Framework" markdown file example with Web-R (https://docs.r-wasm.org/webr), Grid.js table (https://gridjs.io), and a global spinner:<br>https://gist.github.com/alekrutkowski/e8052bb1ffbc812a6540eee20249ac59
+- Observablehq's "Observable Framework" markdown file example with a nice input output layout (1:3), Excel file upload, processing, and download:<br>https://gist.github.com/alekrutkowski/0649e6dcb0fd4b18e4ea473f1d4309be
+- Double range slider (2 values, e.g. min and max) for Observablehq's "Observable Framework" markdown:<br>https://gist.github.com/alekrutkowski/4249df138da5c2554a734b860bebff06
+- Using selectize-like input in Observablehq's "Observable Framework" markdown:<br>https://gist.github.com/alekrutkowski/06fb805fc78ac882a15142dac60404e7
+  
+<br>
+
 ---
 
 # Hello Framework
